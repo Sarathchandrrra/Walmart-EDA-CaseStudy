@@ -73,6 +73,15 @@ jupyter notebook Walmart-EDA-CaseStudy.ipynb
 
 > 👤 By [Sarath Chandra](https://github.com/Sarathchandrrra)
 
+## Data License
+
+The sample dataset used in this repository originates from Kaggle. You can
+download it from the
+[Black Friday Sales Dataset](https://www.kaggle.com/datasets/sainijuneja/black-friday-sales-dataset)
+page. The Kaggle page lists the dataset under a Creative Commons license
+(CC BY 3.0). Refer to the dataset page for the full terms and any usage
+restrictions.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
