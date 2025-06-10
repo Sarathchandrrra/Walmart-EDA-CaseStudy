@@ -1,0 +1,12 @@
+# Ignore dataset files
+walmart.csv
+
+# Python cache directories
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
