@@ -50,10 +50,15 @@ Refer to the provided `requirements.txt` for the full list of dependencies.
 
 ## Download Dataset & Run Notebook
 
-Download the dataset with:
+Download the dataset from Kaggle. You will need a Kaggle account to accept the
+license terms and access the files. After logging in you can either download
+`walmart_data.csv` manually from the
+[Black Friday Sales Dataset](https://www.kaggle.com/datasets/sainijuneja/black-friday-sales-dataset)
+page or use the Kaggle API:
 
 ```bash
-wget "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094" -O walmart.csv
+kaggle datasets download -d sainijuneja/black-friday-sales-dataset -f walmart_data.csv
+unzip black-friday-sales-dataset.zip
 ```
 
 Then launch the notebook:
@@ -80,8 +85,9 @@ The `walmart_data.csv` file analyzed in the notebook comes from the
 hosted on Kaggle. It is distributed under the
 [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/),
 which permits redistribution and modification with attribution. Because of
-its size the dataset is not included in this repository; download it from the
-Kaggle page and place it in the project directory before running the notebook.
+its size the dataset is not included in this repository; you will need a Kaggle
+account to accept the terms and download `walmart_data.csv` from the Kaggle page.
+Place the file in the project directory before running the notebook.
 
 ## License
 
