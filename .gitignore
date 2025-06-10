@@ -1,5 +1,6 @@
 # Ignore dataset files
-walmart.csv
+walmart_data.csv
+black-friday-sales-dataset.zip
 
 # Python cache directories
 __pycache__/
