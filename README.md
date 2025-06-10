@@ -61,6 +61,13 @@ kaggle datasets download -d sainijuneja/black-friday-sales-dataset -f walmart_da
 unzip black-friday-sales-dataset.zip
 ```
 
+Install the Kaggle CLI first if it isn't already available:
+
+```bash
+pip install kaggle
+```
+An API token is also required. See the [Kaggle API documentation](https://www.kaggle.com/docs/api) for instructions on generating one.
+
 Then launch the notebook:
 
 ```bash
