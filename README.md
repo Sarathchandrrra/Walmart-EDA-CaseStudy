@@ -38,6 +38,15 @@ Typical columns include:
 - Focus promotions in underperforming regions with high traffic
 - Reduce inventory for categories with negative profit margins
 
+## Installation
+
+Install Python dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+
 #Tools Used
 
 - Python (Pandas, NumPy)
