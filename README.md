@@ -47,3 +47,7 @@ Typical columns include:
 ---
 
 > 👤 By [Sarath Chandra](https://github.com/Sarathchandrrra)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
